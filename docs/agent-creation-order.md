@@ -4,20 +4,39 @@
 
 После handoff по QWEAR первым создается Productologist Agent, потому что у него уже есть зрелый цикл, критерии и связь с рабочей таблицей.
 
+SMM / Distribution / World Manager фиксируется как агент первого контура, потому что закрывает отсутствующую штатную единицу. Наряду с Marketer Strategist это один из самых важных агентов для роста внешнего трафика, регулярности соцсетей и обратной связи от аудитории.
+
 ## Очередность
 
 1. QWEAR Productologist Agent
-2. Data Collector Agent
-3. Manager / Project Lead
-4. Digital Stylist / Product Solution Designer
-5. Marketer Strategist
-6. SMM / Distribution / World Manager
+2. Marketer Strategist
+3. SMM / Distribution / World Manager
+4. Digital Stylist / Content Funnel Designer
+5. Manager / Project Lead
+6. Data Collector Agent
 7. AI Production Lead
 8. Photo Funnel
 9. Finance Analyst
 10. Logistics
 
-## Почему Data Collector идет сразу после Productologist
+## Почему SMM Поднят В Первый Контур
+
+У QWEAR уже есть продуктовая и производственная логика, но отсутствует отдельная штатная единица, которая ежедневно отвечает за соцсети.
+
+SMM должен закрывать:
+
+- мониторинг трендов;
+- анализ конкурентов;
+- TikTok / Reels / Shorts / VK / Telegram / Pinterest;
+- хуки;
+- первый кадр;
+- контент-план;
+- регулярность публикаций;
+- адаптацию rich-контента в социальные форматы;
+- анализ комментариев;
+- поиск winners;
+- передачу инсайтов обратно в маркетинг, продукт и карточку.
+
+## Почему Data Collector Остается Отдельным
 
 Продуктологу нужны данные с внешних источников, но сбор данных и принятие решений должны быть разделены. Это снижает риск выдуманных выводов и позволяет подключать разные инструменты: API кабинета, Apify, Firecrawl, SerpApi и Google Sheets.
-
