@@ -1,0 +1,4 @@
+Asset ID,Product ID,Asset Name,Asset Type,Funnel Stage,Platform,Hook,CTA,Status,Drive URL,Approved For Card,Approved For Social,QA Notes
+ASSET-001,PROD-2026-001,Одно платье - десятки образов,Rich,Benefit,"Marketplace;Pinterest","Одно платье - десятки образов","Сохраните базу в гардероб",Approved,,TRUE,TRUE,
+ASSET-002,PROD-2026-001,Пять образов за 15 секунд,Video,Attention,"TikTok;Reels;Shorts","Одно платье - 5 образов за 15 секунд","Сохраните, чтобы повторить",Idea,,FALSE,FALSE,
+ASSET-003,PROD-2026-001,Без ремня / с ремнем,Video,Proof,"TikTok;Reels;Shorts","Добавила ремень - и силуэт стал другим","Какой вариант выберете?",Idea,,FALSE,FALSE,

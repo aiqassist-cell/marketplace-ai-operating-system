@@ -1,0 +1,6 @@
+Task ID,Task Name,Product ID,Agent ID,Status,Priority,Input,Expected Output,Result,Result URL,Due Date,Needs Approval,Blocker,n8n Run ID
+TASK-001,Собрать данные карточки,PROD-2026-001,AGENT-006,Ready,High,"Артикул, ссылка, цена, отзывы, вопросы, фото, размеры, состав, метрики","Структурированная карточка данных",,,,TRUE,"Нет артикула и ссылки",
+TASK-002,Проверить продуктовые риски,PROD-2026-001,AGENT-001,Blocked,High,"Посадка, ткань, plus size, выкуп, возвраты, сезонность","Факт / гипотеза / риск / что проверить",,,,TRUE,"Ожидает TASK-001",
+TASK-003,Собрать 5 hook cards,PROD-2026-001,AGENT-003,Ready,High,"Пилотный бриф и текущий rich-контент","5 карт хуков для TikTok/Reels",,,,TRUE,,
+TASK-004,Сделать 2 production blueprints,PROD-2026-001,AGENT-007,Blocked,Medium,"Одно платье - 5 образов; без ремня / с ремнем","2 production blueprint",,,,TRUE,"Ожидает согласование hook cards",
+TASK-005,Собрать карту фотоворонки,PROD-2026-001,AGENT-008,Ready,High,"Текущий rich-контент и позиционирование","Карта карточки и список недостающих визуалов",,,,TRUE,,

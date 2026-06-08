@@ -1,0 +1,9 @@
+Agent ID,Agent Name,Role,Contour,Status,Instructions URL,Last Run,Last Error
+AGENT-001,QWEAR Productologist,Productologist,First,Active,../agents/productologist.md,,
+AGENT-002,Marketer Strategist,Marketer,First,Active,../agents/marketer-strategist.md,,
+AGENT-003,SMM Distribution World Manager,SMM,First,Active,../agents/smm-world-manager.md,,
+AGENT-004,Digital Stylist Content Funnel Designer,Digital Stylist,Support,Active,../agents/digital-stylist.md,,
+AGENT-005,Manager Project Lead,Manager,Support,Active,../agents/manager-project-lead.md,,
+AGENT-006,Data Collector,Data Collector,Support,Active,../agents/data-collector.md,,
+AGENT-007,AI Production Lead,AI Production,Production,Active,../agents/ai-production-lead.md,,
+AGENT-008,Photo Funnel Marketplace Card Visual,Photo Funnel,Production,Active,../agents/photo-funnel.md,,

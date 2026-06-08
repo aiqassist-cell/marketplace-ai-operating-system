@@ -1,0 +1,2 @@
+Hypothesis ID,Product ID,Type,Statement,Fact,Risk,What To Check,Metric,Status,Decision,Owner Approval
+HYP-001,PROD-2026-001,Demand,"Показ модели как базы для нескольких сценариев увеличит сохранения и переходы","Текущий rich-контент уже использует многообразие стилизации","Без данных карточки нельзя связать контент с продажами","Сохранения, переходы, избранное, корзина","Saves;Clicks;Favorites;Carts",Draft,,FALSE

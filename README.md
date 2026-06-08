@@ -24,6 +24,8 @@
 
 - [`docs/system-architecture.md`](docs/system-architecture.md) - роли и связи между агентами.
 - [`docs/virtual-office-technical-architecture.md`](docs/virtual-office-technical-architecture.md) - техническая база виртуального офиса, плагины и этапы внедрения.
+- [`docs/airtable-mvp-design.md`](docs/airtable-mvp-design.md) - таблицы, интерфейсы, views и автоматизации Airtable MVP.
+- [`airtable-import/`](airtable-import/) - стартовые CSV для импорта в Airtable.
 
 ## Принципы
 

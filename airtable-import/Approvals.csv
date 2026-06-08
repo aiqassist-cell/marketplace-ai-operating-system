@@ -1,0 +1,3 @@
+Approval ID,Product ID,Task ID,Approval Type,Question,Recommendation,Risk,Status,Decision Comment,Decision Date
+APPROVAL-001,PROD-2026-001,TASK-001,Product launch,"Запускать сбор данных и пилот по коричневому платью?","Одобрить сбор данных без публикации и расходов","Недостаточно данных для коммерческих решений",Pending,,
+APPROVAL-002,PROD-2026-001,TASK-003,Content,"Одобрить разработку первого пакета из 5 hook cards?","Одобрить как тест упаковки смыслов","Хуки требуют проверки на реальных данных товара",Pending,,
